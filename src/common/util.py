@@ -23,3 +23,4 @@ def generate_random_prime():
 
 def power(a, b, m):
     return (pow(a,b)) % m
+    

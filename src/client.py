@@ -1,9 +1,9 @@
 """ --------------------------------------------------------------------------------------
-   Programa que implementa o client da comunicação TCP/IP com Diffie-Hellman
-   Objetivo: Comunicação de cliente-servidor fazendo o estabelecimento de Chave Secreta
+   Programa que implementa o client da comunicacao TCP/IP com Diffie-Hellman
+   Objetivo: Comunicacao de cliente-servidor fazendo o estabelecimento de Chave Secreta
    com Diffie-Hellman
-   Restricoes: o programa necessita que um servidor esteja em execução para que seja possível
-    a comunicação.
+   Restricoes: o programa necessita que um servidor esteja em execucao para que seja possivel
+    a comunicacao.
 
    Autor: Brendon e Marllon.
    Disciplina: Redes II
@@ -111,7 +111,7 @@ def main():
 
 if __name__ == '__main__':
     print("===========================================================================")
-    print("Inicio da execucao: programa que implementa o client da comunicação TCP/IP.")
+    print("Inicio da execucao: programa que implementa o client da comunicacao TCP/IP.")
     print("Prof. Elias P. Duarte Jr.  -  Disciplina Redes II")
     print("Autores: Brendon e Marllon")
     print("===========================================================================")
